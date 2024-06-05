@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Educacion"
+    },
+    {
+      "id": 2,
+      "name": "Salud"
+    },
+    {
+      "id": 3,
+      "name": "Vivienda"
+    },
+    {
+      "id": 4,
+      "name": "Alimentacion"
+    },
+    {
+      "id": 5,
+      "name": "Transporte"
+    },
+    {
+      "id": 6,
+      "name": "Vestimenta"
+    },
+    {
+      "id": 7,
+      "name": "Otro"
+    }
+  ]
+}
